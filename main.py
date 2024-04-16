@@ -11,6 +11,5 @@ resultado = list(map(cuadrado, numeros))
 
 print(resultado)  # Salida: [1, 4, 9, 16, 25]
 
-######################
-
+#####################
 
