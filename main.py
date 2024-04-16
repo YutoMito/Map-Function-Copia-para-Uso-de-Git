@@ -13,3 +13,9 @@ print(resultado)  # Salida: [1, 4, 9, 16, 25]
 
 #####################
 
+class Empleado:
+  def __init__(self, nombre, cargo, salario):
+    self.nombre = nombre
+    self.cargo = cargo
+    self.salario = salario
+
